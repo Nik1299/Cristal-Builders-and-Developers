@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+}
+.nik {
+  width: 150vw;
+  height: 20vh;
+  background-color: skyblue;
+}
+
+#one {
+  width: 1279px;
+  height: 200px;
+  background-color: skyblue;
+}
+#two {
+  width: 1279px;
+  height: 200px;
+  margin-top: 33px;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 70px;
+  color: teal;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: cornflowerblue;
+}
+p {
+  color: darkred;
+  font-size: 20px;
+  text-align: center;
+  text-transform: inherit;
+}
+#three {
+  width: 1279px;
+  height: 120px;
+  background-color: skyblue;
+}
+#move {
+  font-size: 40px;
+}
+
+.desc {
+  margin-left: 40px;
+  background-color: lavender;
+  width: 350px;
+}
